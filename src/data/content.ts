@@ -38,11 +38,8 @@ const en: Dictionary = {
   about: {
     label: "About",
     heading: "I like turning ideas into things that actually run.",
-    paragraphs: [
-      "I'm a front-end developer who enjoys the part where an idea stops being a sketch and starts being a real interface — one that responds to data, handles edge cases, and holds up on a small screen just as well as a large one.",
-      "My work sits across React, TypeScript, Next.js and Tailwind CSS on the front end, with Node.js, MongoDB and REST APIs on the side that talks to real data. I like understanding both halves of an application, not just the part you can see.",
-      "I'm still early in my career, and I treat that as an advantage: I pick up new tools quickly, I'm comfortable being the least experienced person in the room, and I'd rather ship something real and imperfect than something theoretical and polished.",
-    ],
+    paragraphs: ["I've been on this path for about a year now and I've tried to challenge myself with different projects, and I consider this an advantage; I learn new tools quickly, even if I don't know something, I try to learn it to deliver a complete product."
+      ],
     internshipNote:
       "I completed a three-month front-end development internship with the Fekr Modern team, where I worked inside a real product team for the first time.",
   },
@@ -305,7 +302,7 @@ const fa: Dictionary = {
     paragraphs: [
       "من توسعه‌دهنده فرانت‌اندی هستم که از لحظه‌ای لذت می‌برم که یک ایده از حالت طرح اولیه خارج می‌شود و به یک رابط کاربری واقعی تبدیل می‌شود؛ رابطی که به داده واکنش نشان می‌دهد، حالت‌های خطا را مدیریت می‌کند و روی صفحه کوچک هم به‌خوبی صفحه بزرگ کار می‌کند.",
       "کار من در فرانت‌اند حول React، TypeScript، Next.js و Tailwind CSS می‌چرخد و در کنار آن با Node.js، MongoDB و REST API با بخشی از اپلیکیشن سروکار دارم که با داده واقعی صحبت می‌کند. دوست دارم هر دو طرف یک اپلیکیشن را بفهمم، نه فقط بخشی که دیده می‌شود.",
-      "حدود یک سال هست که در این مسیر هستم و سعی کرده ام با پروژه های مختلف خودم رو به چالش بکشم و این را یک مزیت می‌دانم؛ ابزارهای جدید را سریع یاد می‌گیرم، حتی اگر چیزی را بلد نباشم برای یادگیری آن تلاش میکنم تا یک محصول کامل ارائه دهم..",
+      "حدود یک سال هست که در این مسیر هستم و سعی کرده ام با پروژه های مختلف خودم رو به چالش بکشم و این را یک مزیت می‌دانم؛ ابزارهای جدید را سریع یاد می‌گیرم، حتی اگر چیزی را بلد نباشم برای یادگیری آن تلاش میکنم تا یک محصول کامل ارائه دهم.",
     ],
     internshipNote:
       "یک دوره کارآموزی سه‌ماهه در حوزه توسعه فرانت‌اند را با تیم فکر مدرن گذرانده‌ام؛ جایی‌که برای اولین‌بار در یک تیم واقعی محصول کار کردم.",
